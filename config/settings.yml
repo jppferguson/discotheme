@@ -1,0 +1,7 @@
+required:
+  parent_site_title:
+    default: 'JPPFerguson'
+    client: true
+  parent_site_url:
+    default: 'http://jppferguson.com/'
+    client: true

@@ -1,0 +1,4 @@
+en:
+  site_settings:
+    parent_site_title: 'Parent Site Title'
+    parent_site_url: 'Parent Site URL'
