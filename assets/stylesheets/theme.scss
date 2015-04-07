@@ -1,7 +1,7 @@
 /* Custom theme stuff goes in here */
 
 html {
-  background: #ddd;
+  background: #F0F0F0;
 }
 
 body {
@@ -11,4 +11,9 @@ body {
 
 p {
   text-transform: uppercase;
+}
+
+// fix padding on home button
+#back-to-main-site .fa-home {
+  padding: 0;
 }
